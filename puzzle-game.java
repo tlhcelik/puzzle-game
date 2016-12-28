@@ -1,4 +1,4 @@
-package odev5;
+package puzzle-game;
 import java.util.*;
 /**
  *
@@ -7,7 +7,7 @@ import java.util.*;
  * @number 15010011051
  *
  */
-public class Odev5 {
+public class puzzle-game {
     //----------- Global Variables -----------//
 
     public static ArrayList<Integer> numbers = new ArrayList<>();
